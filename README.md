@@ -1,0 +1,3 @@
+*Virsraksts*
+-saraksts
+-saraksts1
